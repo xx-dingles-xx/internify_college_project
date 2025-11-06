@@ -24,3 +24,12 @@
     --radius-lg: 8px;
     --radius-full: 9999px;      /* full circle */
 }
+
+/* CLASS INFO */
+.header-bar {
+    background-color: var(--primary-color)
+}
+
+.button-text {
+    color: var(--button-color)
+}
