@@ -10,7 +10,7 @@ Internify is an online platform. It is a product of the "Connect" project. Our t
 Internify helps students develop skills which prepares them for their future jobs through opportunities present in Campus and other locations. It pairs up students with the field that they are interested in through recommendationsband a matching system. Companies can post job opportunities for students to apply. 
 ## Pages Implemented
 1. Landing Page (index.html)
-2. Student Dashboard (student-dashboard.html)
+2. Student Dashboard (dash.html)
 3. Company Dashboard (company-dashboard.html)
 4. Project Listings (projects.html)
 ## Technologies Used
