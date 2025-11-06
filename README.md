@@ -28,7 +28,7 @@ Internify helps students develop skills which prepares them for their future job
 - Created footer component
 - [List other specific contributions]
 ### Avdhesh Chhetri
-- Implemented hero section styling
+- helped create details of the project
 - Made site responsive for mobile devices
 - [List other specific contributions]
 ### Aaron Jones
