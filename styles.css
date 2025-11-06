@@ -30,6 +30,6 @@
     background-color: var(--primary-color)
 }
 
-h1 {
-    color: blue
+.button-text {
+    color: var(--button-color)
 }
