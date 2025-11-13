@@ -21,15 +21,12 @@ Internify helps students develop skills which prepares them for their future job
 ## Individual Contributions Sample
 ### Nathan Hoff
 - Implemented landing page HTML structure
-- Created responsive navigation bar
-- [List other specific contributions]
 ### Alana Greve
 - Designed and implemented color scheme
 - Created footer component
-- [List other specific contributions]
 ### Avdhesh Chhetri
 - helped create details of the project
-- Made site responsive for mobile devices
+- Made site responsive 
 - [List other specific contributions]
 ### Aaron Jones
-- assisted {placeholder}
+- assisted in the formation of the code 
