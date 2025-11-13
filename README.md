@@ -1,4 +1,4 @@
-# Connect Platform - Project 2
+# Connect Platform - Project 2 : INTERNIFY
 ## Team Name/Number: Beta 2
 ## Team Members
 - Nathan - xx-dingles-xx
@@ -7,7 +7,7 @@
 - Alana - wizardkats
 ## Project Description
 Internify is an online platform. It is a product of the "Connect" project. Our team wanted to create a website which would help students secure job and internships. And, we wanted companies to get the best employees.
-Internify helps students develop skills which prepares them for their future jobs through opportunities present in Campus and other locations. It pairs up students with the field that they are interested in through recommendationsband a matching system. Companies can post job opportunities for students to apply. 
+Internify helps students develop skills which prepares them for their future jobs through opportunities present in Campus and other locations. It pairs up students within fields that they are interested in through recommendation based matching system. Students get paired up with mentors to help them learn and build skills throughout the process. Companies can post job opportunities for students to apply. The overall scale of this project helps in the development of proper skills before actual jobs
 ## Pages Implemented
 1. Landing Page (index.html)
 2. Student Dashboard (dash.html)
@@ -18,18 +18,15 @@ Internify helps students develop skills which prepares them for their future job
 - CSS3 (Flexbox, Grid, Media Queries)
 - Git & GitHub
 - GitHub Pages
-## Individual Contributions Sample
+## Individual Contributions : 
 ### Nathan Hoff
 - Implemented landing page HTML structure
-- Created responsive navigation bar
-- [List other specific contributions]
 ### Alana Greve
 - Designed and implemented color scheme
 - Created footer component
-- [List other specific contributions]
 ### Avdhesh Chhetri
-- Implemented hero section styling
-- Made site responsive for mobile devices
-- [List other specific contributions]
+- helped create details of the project
+- Made site responsive
+- structured readme
 ### Aaron Jones
-- assisted {placeholder}
+- assisted in the formation of the code 

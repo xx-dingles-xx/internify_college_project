@@ -1,0 +1,7 @@
+@import url("styles.css");
+
+.about-us {
+    height: 500px;
+    width: 50%;
+    background-color: var(--secondary-color);
+}
