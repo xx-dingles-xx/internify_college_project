@@ -1,4 +1,4 @@
-# Connect Platform - Project 2
+# Connect Platform - Project 2 : INTERNIFY
 ## Team Name/Number: Beta 2
 ## Team Members
 - Nathan - xx-dingles-xx
