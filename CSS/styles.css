@@ -28,13 +28,18 @@
 /* GENERAL WEBSITE CLASSES - For general use on all pages */
 
 .header-bar {
-    height: 75px;
+    height: var(--spacing-xl) * 2;
     width: 100%;
     background-color: var(--primary-color);
+    position: fixed;
+}
+
+.header {
+    align-items: center;
 }
 
 .header-button:link, .header-button:visited {
-    padding: 10px 10px;
+    padding: var(--spacing-xl);
     text-align: center;
     text-decoration: none;
     background-color: var(--primary-color);
@@ -45,7 +50,18 @@
     background-color: var(--accent-color);
 }
 
-.container{
+.under-header {
+    padding-top: 80px;   /* Make sure the text is down far enough so it's not covered by the bar */
+    padding-left: var(--spacing-md);
+    padding-right: var(--spacing-md);
+}
+
+.container {
     display: flex;
-    gap: 10px;
+    gap: var(--spacing-md);
+}
+
+body, html {
+    padding: 0;
+    margin: 0;
 }
