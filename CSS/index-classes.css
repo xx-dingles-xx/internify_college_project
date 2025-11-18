@@ -2,6 +2,23 @@
 
 .about-us {
     height: 500px;
-    width: 75%;
+    width: 80%;
     background-color: var(--secondary-color);
+}
+
+.getting-started {
+    text-align: center;
+    margin: var(--spacing-xl);
+}
+
+.student-sign {
+    height: 200px;
+    width: 25%;
+    border: 2px solid var(--border-color2);
+    display: inline;
+}
+
+.company-sign {
+    width: 25%;
+    border: 2px solid var(--border-color2);
 }

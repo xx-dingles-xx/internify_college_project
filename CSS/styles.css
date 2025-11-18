@@ -9,7 +9,8 @@
     --text-color: #000000;       /* Black */
 
     /* BORDER COLORS */
-    --border-color: #000000;     /* Black, what else are we supposed to put lol */
+    --border-color1: #000000;     /* Black, what else are we supposed to put lol */
+    --border-color2: #aaaaaa;     /* Gray */
 
     /* SPACING VALUES - For consistent spacing */
     --spacing-xs: 0.25rem;          /* 4px */
@@ -32,10 +33,13 @@
     width: 100%;
     background-color: var(--primary-color);
     position: fixed;
+    display: flex;
 }
 
 .header {
     align-items: center;
+    margin-left: var(--spacing-md);
+    margin-right: var(--spacing-md);
 }
 
 .header-button:link, .header-button:visited {
@@ -50,6 +54,19 @@
     background-color: var(--accent-color);
 }
 
+.button:link, .button:visited {
+    padding: var(--spacing-md);
+    text-align: center;
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    margin: var(--spacing-md);
+}
+
+.button:hover, .button:active {
+    background-color: var(--accent-color);
+}
+
 .under-header {
     padding-top: 80px;   /* Make sure the text is down far enough so it's not covered by the bar */
     padding-left: var(--spacing-md);
@@ -61,7 +78,28 @@
     gap: var(--spacing-md);
 }
 
+.centered-div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 body, html {
     padding: 0;
     margin: 0;
+}
+
+.footer {
+    padding: var(--spacing-lg);
+    text-align: center;
+    background-color: var(--border-color1);
+}
+
+.footer-link:link, .footer-link:active {
+    text-decoration: none;
+    color: var(--button-color);
+}
+
+.footer-link:hover, .footer-link:active {
+    color: var(--border-color2);
+    margin-top: var(--spacing-xl);
 }
