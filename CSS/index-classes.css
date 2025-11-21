@@ -36,3 +36,13 @@
     text-align: center;
     width: 20%;
 }
+.infoL {
+    width: 25%;
+    text-align: center;
+    display: inline;
+}
+.infoR {
+    width: 35%;
+    text-align: center;
+    display: inline;
+}
