@@ -3,6 +3,7 @@
     --primary-color: #1aa3ff;    /* Blue, used for most of the bars and buttons and such */
     --accent-color: #99ddff;     /* Lighter, less saturated blue for selected buttons */
     --secondary-color: #ffffff;  /* White, the color of most other things */
+    --accent-color2: #89A6D0;     /* Bluish color for the left sectors of the dashboard and profile
 
     /* TEXT COLORS */
     --button-color: #ffffff;     /* White, duh */

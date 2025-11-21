@@ -22,3 +22,18 @@
     width: 25%;
     border: 2px solid var(--border-color2);
 }
+.listings-pro {
+    text-align: center;
+    width: 20%;    
+    background-color: var(--accent-color2);
+    display: inline;
+}
+.profile {
+    text-align: center;
+    width: 60%;
+    display: inline;
+}
+.rankings {
+    text-align: center;
+    width: 20%;
+}
