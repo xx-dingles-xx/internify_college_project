@@ -1,0 +1,26 @@
+@import url("styles.css");
+
+.listings-pro {
+    text-align: center;
+    width: 20%;    
+    background-color: var(--accent-color2);
+    display: inline;
+}
+.profile {
+    width: 60%;
+    display: inline;
+}
+.rankings {
+    text-align: center;
+    width: 20%;
+}
+.infoL {
+    width: 25%;
+    text-align: center;
+    display: inline;
+}
+.infoR {
+    width: 35%;
+    text-align: center;
+    display: inline;
+}

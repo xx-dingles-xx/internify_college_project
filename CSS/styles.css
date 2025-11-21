@@ -55,6 +55,13 @@
     background-color: var(--accent-color);
 }
 
+.header-pic {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 64px;
+}
+
 .button:link, .button:visited {
     padding: var(--spacing-md);
     text-align: center;
