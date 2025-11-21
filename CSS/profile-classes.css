@@ -21,6 +21,15 @@
 }
 .infoR {
     width: 35%;
-    text-align: center;
+    text-align: left;
     display: inline;
+}
+.pfp {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
