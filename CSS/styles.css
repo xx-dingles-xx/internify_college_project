@@ -68,7 +68,7 @@
     text-decoration: none;
     background-color: var(--primary-color);
     color: var(--secondary-color);
-    margin: var(--spacing-md);
+    margin: var(--spacing-xl);
 }
 
 .button:hover, .button:active {

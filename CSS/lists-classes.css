@@ -1,0 +1,33 @@
+@import url("styles.css");
+
+.listings {
+    width: 80%;
+    padding: var(--spacing-md);
+}
+
+.listing {
+    border: 2px solid var(--border-color2);
+    width: 30%;
+    text-align: center;
+    padding: var(--spacing-md);
+}
+
+.company-name {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.featured {
+    align-items: center;
+}
+
+.regular {
+    align-items: center;
+}
+
+.notifs {
+    width: 20%;
+    background-color: var(--border-color2);
+    padding: var(--spacing-md);
+    text-align: center;
+}

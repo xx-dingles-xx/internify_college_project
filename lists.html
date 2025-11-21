@@ -4,6 +4,7 @@
     <head>
         <title>Internify - Listings</title>
         <link rel="stylesheet" href="CSS/styles.css">
+        <link rel="stylesheet" href="CSS/lists-classes.css">
     </head>
     <body>
         <div class="header-bar">
@@ -14,8 +15,110 @@
             <a href="dash.html" class="header-button">DASHBOARD</a>
             <a href="profile.html" class="header-pic"> <img src="images/profile1.png" class="header-pic"> </a>
         </div>
-        <div class="under-header">
-            <p>you're in the listings brolio</p>
+        <div class="under-header"></div>
+        <!-- Must know: each listing has to have a company name, an image, a position name, and a button to see more -->
+        <div class="container">
+            <!-- All the listings -->
+            <div class="listings">
+                <!-- This only has 1 row of 3 jobs -->
+                <h1>FEATURED JOBS:</h1>
+                <hr>
+                <div class="featured container">
+                    <div class="listing centered-div">
+                        <h2 class="company-name">Apple</h2>
+                        <p>Position: Backend Engineering Intern</p>
+                        <br>
+                        <a href="lists.html" class="button">SEE MORE</a>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="listing centered-div">
+                        <h2 class="company-name">Texas Tech</h2>
+                        <p>Position: AI Research Assistant</p>
+                        <br>
+                        <a href="lists.html" class="button">SEE MORE</a>
+                        <br>
+                        <br>
+                    </div>
+                    <div class="listing centered-div">
+                        <h2 class="company-name">Meta</h2>
+                        <p>Position: Data Engineering Intern</p>
+                        <br>
+                        <a href="lists.html" class="button">SEE MORE</a>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+                <!-- Regular Listings, I'll put 6 listings for now because why not -->
+                <h1>LISTINGS:</h1>
+                <hr>
+                <div class="regular">
+                    <!-- Layer 1 -->
+                    <div class="container">
+                        <div class="listing centered-div">
+                            <h2 class="company-name">Formstack</h2>
+                            <p>Position: Data Science Intern</p>
+                            <br>
+                            <a href="lists.html" class="button">SEE MORE</a>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="listing centered-div">
+                            <h2 class="company-name">Google</h2>
+                            <p>Position: Software Engineering Intern</p>
+                            <br>
+                            <a href="lists.html" class="button">SEE MORE</a>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="listing centered-div">
+                            <h2 class="company-name">Bitsight</h2>
+                            <p>Position: Cybersecurity Intern</p>
+                            <br>
+                            <a href="lists.html" class="button">SEE MORE</a>
+                            <br>
+                            <br>
+                        </div>
+                    </div>
+                    <br>
+                    <!-- Layer 2 -->
+                    <div class="container">
+                        <div class="listing centered-div">
+                            <h2 class="company-name">IBM</h2>
+                            <p>Position: Product Development</p>
+                            <br>
+                            <a href="lists.html" class="button">SEE MORE</a>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="listing centered-div">
+                            <h2 class="company-name">Lockheed</h2>
+                            <p>Position: System Engineering Intern</p>
+                            <br>
+                            <a href="lists.html" class="button">SEE MORE</a>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="listing centered-div">
+                            <h2 class="company-name">Activition</h2>
+                            <p>Position: Game Development Intern</p>
+                            <br>
+                            <a href="lists.html" class="button">SEE MORE</a>
+                            <br>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Notifications -->
+            <div class="notifs">
+                <h1>REMINDERS</h1>
+            </div>
+        </div>
+        <div class="footer">
+            <!-- The like cap at the bottom with all those links idk what they're called rn -->
+            <a href="images/gnomed.jpg" class="footer-link">VERY IMPORTANT LINK YOU SHOULD CLICK THIS RIGHT NOW PLSSSS</a>
         </div>
     </body>
 </html>

@@ -8,7 +8,7 @@
 }
 .profile {
     width: 60%;
-    display: inline;
+    display: flex;
 }
 .rankings {
     text-align: center;
