@@ -20,12 +20,14 @@ Internify helps students develop skills which prepares them for their future job
 - GitHub Pages
 ## Individual Contributions : 
 ### Nathan Hoff
-- Implemented landing page HTML structure
+- Home Page, Listings programming
+- Set up styling system
 ### Alana Greve
-- Designed and implemented color scheme
-- Created footer component
+- Profile, Dashboard programming
+- Profile pictures
 ### Avdhesh Chhetri
-- helped create details of the project
-- structured code
+- Helped create details of the project
+- Structured code
 ### Aaron Jones
-- assisted in the formation of the code 
+- Coloring and formatting help
+- Presentation editor

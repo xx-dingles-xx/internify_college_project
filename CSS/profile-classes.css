@@ -11,7 +11,6 @@
     display: flex;
 }
 .rankings {
-    text-align: center;
     width: 20%;
 }
 .infoL {
@@ -32,4 +31,17 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.profile-pic {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 64px;
+}
+
+.listing {
+    border: 2px solid var(--border-color1);
+    text-align: center;
+    align-items: center;
+    width: 90%;
 }

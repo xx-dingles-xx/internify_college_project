@@ -27,7 +27,7 @@
 
 .notifs {
     width: 20%;
-    background-color: var(--border-color2);
+    background-color: var(--accent-color2);
     padding: var(--spacing-md);
     text-align: center;
 }

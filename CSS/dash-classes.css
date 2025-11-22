@@ -1,6 +1,33 @@
-.sector {
+@import url("styles.css");
 
+.center {
+    width: 60%;
 }
-.boxes {
 
+.side {
+    width: 20%;
+    text-align: center;
+    background-color: var(--accent-color2);
+}
+
+.discussion-button:link, .discussion-button:visited {
+    border: 2px solid var(--border-color2);
+    text-decoration: none;
+    background-color: var(--secondary-color);
+    padding: var(--spacing-md);
+    width: 30%;
+}
+
+.discussion-button:hover, .discussion-button:active {
+    background-color: var(--border-color2);
+}
+
+.profile-header {
+    display: inline;
+}
+
+.profile-pic {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 64px;
 }

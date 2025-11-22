@@ -111,3 +111,7 @@ body, html {
     color: var(--border-color2);
     margin-top: var(--spacing-xl);
 }
+
+.accent-text {
+    color: #555555;
+}
