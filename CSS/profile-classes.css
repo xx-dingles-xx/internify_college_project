@@ -15,12 +15,12 @@
     width: 20%;
 }
 .infoL {
-    width: 25%;
+    width: 40%;
     text-align: center;
     display: inline;
 }
 .infoR {
-    width: 35%;
+    width: 60%;
     text-align: left;
     display: inline;
 }
